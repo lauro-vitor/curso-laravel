@@ -1,0 +1,11 @@
+@extends('layout.principal')
+@section('titulo','Produtos')
+@section('conteudo')
+    <h3>Produtos</h3>
+    <ul>
+        <li>PC</li>
+        <li>Notbook</li>
+        <li>Mouse</li>
+        <li>Fone</li>
+    </ul>
+@endsection
